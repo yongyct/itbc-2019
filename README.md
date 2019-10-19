@@ -1,5 +1,5 @@
 # ITBC 2019
-Shopee Competition 2019-10-20
+ITBC 2019-10-20
 
 # Getting Started
 ## Instructions
@@ -11,3 +11,21 @@ Shopee Competition 2019-10-20
 * `pip install kaggle` to get kaggle cli
 * to submit from terminal, use the below command from `round_n` folder:
 	* `kaggle competitions submit -c shopee-competition-page -f submission.csv -m "submission message from cli"`
+
+## Admin Stuff
+### URLs
+* Competition Page (Dummy) - https://www.kaggle.com/c/shopee-competition-page
+* Script Submit - techsg@shopee.com
+* Telegram Chat - https://web.telegram.org/#/im?p=c1360097207_14818032483034539180
+
+### Workflow
+* Submit data to kaggle, email script to techsg@shopee.com
+	* Both Subject & Script Name - **Open Category - Team crievrytim ([*Rank No.*]) - Round [*Round No.*]**
+
+### Other Details
+* QR Code
+	* ![QR Code](./admin/qr.png)
+* Submission ID: `537099144`
+* Team Name: `crievrytim`
+* [Rules](./admin/rules.pdf)
+* [Admin](./admin/admin.pdf)
